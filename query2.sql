@@ -1,2 +1,2 @@
-insert into CoolTable values ('eeeee');
+insert into CoolTable values ('fgh');
 GO
